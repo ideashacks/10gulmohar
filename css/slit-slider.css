@@ -6,12 +6,6 @@
 	left: 0;
 }
 
-#myVideo {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  min-width: 100%; 
-  min-height: 100%;
 
 .sl-slider-wrapper {
 	width: 100%;
@@ -40,7 +34,7 @@
 }*/
 .bg-img-3 {
 	/*background-image: url(https://10gulmohar.ideashacks.com/gulmohar-image/banner1.jpg);*/
-	background-image: url(https://player.vimeo.com/video/671036916?h=1f4dd439d6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479);
+	background-video: url(https://player.vimeo.com/video/671036916?h=1f4dd439d6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479);
 }
 
 
