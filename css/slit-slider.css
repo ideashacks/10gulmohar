@@ -27,13 +27,13 @@
 
 
 .bg-img-1 {
-	background-image: url(../img/slider/banner1.jpg);
+	background-image: url(/img/slider/banner1.jpg);
 }
 .bg-img-2 {
 	background-image: url(../img/slider/banner2.jpg);
 }
 .bg-img-3 {
-	background-image: url(../img/slider/banner3.jpg);
+	background-image: url(/img/slider/banner3.jpg);
 	/*background-vdo: url(https://vimeo.com/671036916);*/
 }
 
