@@ -1,12 +1,12 @@
  .u-section-1 {
-  min-height: 702px;
+  min-height: 721px;
 }
 
 .u-section-1 .u-video-1 {
   height: auto;
   margin-bottom: 0;
-  margin-top: 0;
-  min-height: 712px;
+  margin-top: -29px;
+  min-height: 764px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -16,7 +16,7 @@
 .u-section-1 .u-form-1 {
   height: 508px;
   background-image: none;
-  margin: 48px 751px 0 176px;
+  margin: 86px 751px 0 176px;
 }
 
 .u-section-1 .u-form-group-2 {
@@ -144,6 +144,6 @@
 
   .u-section-1 .embed-responsive-1 {
     width: 421%;
-    left: -160%;
+    left: -161%;
   }
 }
