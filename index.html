@@ -910,6 +910,38 @@ Visibility:visible;
     </div>
     </div>
     </section>
+	
+		<style>
+.slidelogo img {
+  width: 150px;
+  height: 100px;
+  animation: scrolllogo 60s linear infinite;
+  object-fit: contain;
+}
+.slidelogos img {
+  width: 150px;
+  height: 100px;
+  animation: scrolllogo 20s linear infinite;
+  object-fit: contain;
+}
+
+.slide-tracklogo {
+  width: 100%;
+  display: flex;
+  gap: 3em;
+  overflow: hidden;
+}
+
+/* .slider {
+   margin-top: 70px;
+  padding: 8em 2em; 
+} */
+
+@keyframes scrolllogo {
+  0% {transform: translateX(0);}
+  100% {transform: translatex(-1000%)}
+}
+			</style>
 
 		<!-- Patrons section -->
 			<section id="portfolio">
