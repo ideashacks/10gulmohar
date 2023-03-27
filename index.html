@@ -372,6 +372,15 @@ p {
 						<span class="icon-bar"></span>
                     </button>
 			
+			
+			<script>
+			$(document).ready(function(){
+				$('.navbar-toggle').click(function(){
+					$('.hidenav').hide();
+				});
+			});
+			</script>
+			
 					<!-- /responsive nav button -->
 					
 					<!-- logo -->
@@ -383,7 +392,7 @@ p {
                 </div>
 
 				<!-- main nav -->
-                <nav class="collapse navbar-collapse navbar-right" role="navigation">
+                <nav class="collapse navbar-collapse navbar-right hidenav" role="navigation">
                     <ul id="nav" class="nav navbar-nav" style="margin-top:60px; display:block;">
                         <li><a href="https://www.ideashacks.com">IDEASHACKS VENTURES</a></li>
 			<li><a href="#portfolio">Our Patrons</a></li>
